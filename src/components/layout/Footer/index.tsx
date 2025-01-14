@@ -29,7 +29,7 @@ const socialsData: SocialNetworks[] = [
   {
     id: 4,
     icon: <FaGithub />,
-    url: "https://github.com",
+    url: "https://github.com/alvina-abdullah",
   },
 ];
 
@@ -104,7 +104,7 @@ const Footer = () => {
           <hr className="h-[1px] border-t-black/10 mb-6" />
           <div className="flex flex-col sm:flex-row justify-center sm:justify-between items-center mb-2">
             <p className="text-sm text-center sm:text-left text-black/60 mb-4 sm:mb-0 sm:mr-1">
-              Shop.co © 2025,All Right Reserved.
+              Shop.co, Alvina © 2025,All Right Reserved.
               <Link
                 href=""
                 className="text-black font-medium"
